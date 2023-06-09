@@ -105,6 +105,7 @@ function Test-SpotifyVersion
 Write-Host @'
 **********************************
 Authors: @Cyber
+https://t.me/osintScam
 **********************************
 '@
 
